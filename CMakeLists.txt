@@ -3,4 +3,4 @@ project(colloquium)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(colloquium main.cpp)
+add_executable(colloquium main.cpp modules/RationalNumber/impl/RationalNumber.cpp modules/RationalNumber/api/RationalNumber.h)
