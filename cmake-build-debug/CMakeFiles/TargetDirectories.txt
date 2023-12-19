@@ -1,3 +1,0 @@
-C:/Users/user/CLionProjects/colloquium/cmake-build-debug/CMakeFiles/colloquium.dir
-C:/Users/user/CLionProjects/colloquium/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/user/CLionProjects/colloquium/cmake-build-debug/CMakeFiles/rebuild_cache.dir
